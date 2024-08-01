@@ -69,17 +69,16 @@ const Header = (props: {
         <div className="hidden xl:block">
           <div>
             <h1 className="mb-0.5 text-heading-5 font-bold text-dark dark:text-white">
-              Dashboard
+              Cardio-Life
             </h1>
-            <p className="font-medium">Next.js Admin Dashboard Solution</p>
           </div>
         </div>
 
         <div className="flex items-center justify-normal gap-2 2xsm:gap-4 lg:w-full lg:justify-between xl:w-auto xl:justify-normal">
           <ul className="flex items-center gap-2 2xsm:gap-4">
-            {/* <!-- Search Form --> */}
-            <SearchForm />
-            {/* <!-- Search Form --> */}
+            {/*/!* <!-- Search Form --> *!/*/}
+            {/*<SearchForm />*/}
+            {/*/!* <!-- Search Form --> *!/*/}
 
             {/* <!-- Dark Mode Toggle --> */}
             <DarkModeSwitcher />

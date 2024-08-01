@@ -12,7 +12,7 @@ const notificationList = [
   {
     image: "/images/user/user-02.png",
     title: "New message received",
-    subTitle: "Devid sent you new message",
+    subTitle: "David sent you new message",
   },
   {
     image: "/images/user/user-26.png",
